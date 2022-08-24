@@ -182,6 +182,7 @@ class _SyncPageState extends State<SyncPage> {
     }
   }
 
+  //using googleUser.authHeaders after login
   Future<drive.DriveApi?> _getDriveApi() async {
     final googleUser = await googleSignIn.signIn();
     final headers = await googleUser?.authHeaders;
