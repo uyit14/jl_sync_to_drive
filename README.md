@@ -1,16 +1,3 @@
 # jl_sync_to_drive
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![jl-sync-to-drive](https://user-images.githubusercontent.com/22501191/186310467-7f49b4f1-9207-4e13-8c06-a326b9198903.gif)
