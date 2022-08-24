@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "265023315816",
+    "project_id": "jl-sync-to-drive",
+    "storage_bucket": "jl-sync-to-drive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265023315816:android:eb2832df1eee8c8201c0dd",
+        "android_client_info": {
+          "package_name": "com.example.jl_sync_to_drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265023315816-4cjqtks473mjnr0r4heesqj04hujduq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jl_sync_to_drive",
+            "certificate_hash": "c2d283b9f36b743ff6b12d58702ce49c2aabd2e6"
+          }
+        },
+        {
+          "client_id": "265023315816-4or5ge8gn3921n75q250g58mjbbrd11f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Ka89VqGqjxTpCJgKW2G5GlznGdL8KKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265023315816-4or5ge8gn3921n75q250g58mjbbrd11f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "265023315816-spnod7nahpu8qth74u38lps1jv7b5fnn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jlSyncToDrive"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
