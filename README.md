@@ -12,5 +12,7 @@
 > 2.2: Implement Google SignIn function
 
 > 2.3: Sync the file to Drive
+# Source
+> https://github.com/uyit14/jl_sync_to_drive
 # Demo
 ![jl-sync-drive](https://user-images.githubusercontent.com/22501191/186311462-ad971072-e469-4f03-9091-15af85a4ca8c.gif)
