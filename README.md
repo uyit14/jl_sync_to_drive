@@ -1,4 +1,4 @@
-# jl_sync_to_drive
+# sync_to_drive
 # Guideline
 ## Step 1: Firebase config
 > 1.1: Create firebase project on https://console.firebase.google.com
@@ -16,3 +16,8 @@
 > https://github.com/uyit14/jl_sync_to_drive
 # Demo
 ![jl-sync-drive](https://user-images.githubusercontent.com/22501191/186311462-ad971072-e469-4f03-9091-15af85a4ca8c.gif)
+
+# sync local and firebase
+# Guideline
+## Generate .g class for Hive adapter
+> run "flutter packages pub run build_runner build" before run the app

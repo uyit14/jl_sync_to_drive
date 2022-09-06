@@ -6,16 +6,16 @@ import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:googleapis/drive/v3.dart' as drive;
 import 'package:path/path.dart' as path;
-import 'google_auth_client.dart';
+import '../common/google_auth_client.dart';
 
-class SyncPage extends StatefulWidget {
-  const SyncPage({Key? key}) : super(key: key);
+class SyncDrivePage extends StatefulWidget {
+  const SyncDrivePage({Key? key}) : super(key: key);
 
   @override
-  State<SyncPage> createState() => _SyncPageState();
+  State<SyncDrivePage> createState() => _SyncDrivePage();
 }
 
-class _SyncPageState extends State<SyncPage> {
+class _SyncDrivePage extends State<SyncDrivePage> {
   bool _loginStatus = false;
   bool _uploadDone = false;
   final googleSignIn = GoogleSignIn(scopes: [
